@@ -63,9 +63,9 @@
 
 | Component | Detail |
 |-----------|--------|
-| 📡 **Connectivity** | Standardized socket testing |
 | ⏱️ **Latency** | ICMP/TCP ping calculations |
-| 📊 **UI/UX** | Native Android XML architecture |
+| 📥 **Download** | Real-time throughput calculation |
+| 📤 **Upload** | Real-time bandwidth calculation |
 
 ---
 
