@@ -23,11 +23,7 @@
 <br/>
 
 <a href="https://github.com/LihkaGames/Signal-Test-Speed-Ping-App/releases/download/v1.0.0/Signal.Test.Speed.Ping.apk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=500&lines=📡+INSTANT+SPEED+TEST;⚡+CHECK+PING+%26+LATENCY;🚀+TEST+YOUR+NETWORK+NOW">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=0097A7&center=true&vCenter=true&repeat=true&width=500&lines=📡+INSTANT+SPEED+TEST;⚡+CHECK+PING+%26+LATENCY;🚀+TEST+YOUR+NETWORK+NOW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=500&lines=📡+INSTANT+SPEED+TEST;⚡+CHECK+PING+%26+LATENCY;🚀+TEST+YOUR+NETWORK+NOW" alt="Download Animation" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=500&lines=📡+INSTANT+SPEED+TEST;⚡+CHECK+PING+%26+LATENCY;🚀+TEST+YOUR+NETWORK+NOW" alt="Download Animation" />
 </a>
 
 <br/>
